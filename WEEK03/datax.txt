@@ -1,0 +1,10 @@
+Hello Python Coders!
+
+red
+green
+blue
+
+cyan
+magenta
+yellow
+colors
